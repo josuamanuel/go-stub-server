@@ -1,0 +1,24 @@
+[
+  {
+    "path":"/card-list/",
+    "delay":2000,
+    "JSON":{
+      "person":{
+        "name":"Jose",
+        "DOB":"1982-12-11"
+      },
+      "active":true
+    }
+  },
+  {
+    "path":"/loans/",
+    "delay":1000,
+    "JSON":{
+      "person":{
+        "name":"loans",
+        "DOB":"1982-12-11"
+      },
+      "active":true
+    }
+  }
+]
